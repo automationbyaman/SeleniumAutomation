@@ -1,0 +1,22 @@
+<extentreports>
+	<configuration>
+		<theme>standard</theme>
+		<encoding>UTF-8</encoding>
+		<protocol>https</protocol>
+		<documentTitle>Title - Selenium Automation Framework Report Document</documentTitle>
+		<reportName>Cucumber Test Report</reportName>
+		<dateFormat>yyyy-MM-dd</dateFormat>
+		<timeFormat>hh:mm:ss</timeFormat>
+		<scripts>
+			<![CDATA[ 
+			$(document).ready(function(){
+			});
+			]]>
+		</scripts>
+		<!-- custom styles -->
+		<styles>
+			<![CDATA[ 
+			]]>
+		</styles> 
+	</configuration>
+</extentreports>

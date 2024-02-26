@@ -1,0 +1,91 @@
+[INFO ] 2024-02-26 20:53:01 [main] Base - ReadConfig instantiated
+[INFO ] 2024-02-26 20:53:01 [main] Base - Setup executed
+[INFO ] 2024-02-26 20:53:04 [main] Base - Opening the url for Amazon
+[INFO ] 2024-02-26 20:53:04 [main] Base - Actual Title - Amazon.in
+[INFO ] 2024-02-26 20:53:04 [main] Base - Expected Title - Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2024-02-26 20:53:04 [main] Base - getDriver is called
+[INFO ] 2024-02-26 20:53:04 [main] Base - Quiting the browser
+[INFO ] 2024-02-26 20:53:09 [main] Base - ReadConfig instantiated
+[INFO ] 2024-02-26 20:53:09 [main] Base - Setup executed
+[INFO ] 2024-02-26 20:53:11 [main] Base - Opening the url for Amazon
+[INFO ] 2024-02-26 20:53:12 [main] Base - Actual Title - Amazon.in
+[INFO ] 2024-02-26 20:53:12 [main] Base - Expected Title - Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2024-02-26 20:53:12 [main] Base - getDriver is called
+[INFO ] 2024-02-26 20:53:12 [main] Base - Quiting the browser
+[INFO ] 2024-02-26 21:01:30 [main] Base - ReadConfig instantiated
+[INFO ] 2024-02-26 21:01:30 [main] Base - Setup executed
+[INFO ] 2024-02-26 21:01:34 [main] Base - Opening the url for Amazon
+[INFO ] 2024-02-26 21:01:34 [main] Base - Actual Title - Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2024-02-26 21:01:34 [main] Base - Expected Title - Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2024-02-26 21:01:34 [main] Base - ReadConfig instantiated
+[INFO ] 2024-02-26 21:01:34 [main] Base - getDriver is called
+[INFO ] 2024-02-26 21:01:35 [main] Base - Actual size of dropdown - 46
+[INFO ] 2024-02-26 21:01:35 [main] Base - Expected size of dropdown - 46
+[INFO ] 2024-02-26 21:01:39 [main] Base - Quiting the browser
+[INFO ] 2024-02-26 21:02:44 [main] Base - ReadConfig instantiated
+[INFO ] 2024-02-26 21:02:44 [main] Base - Setup executed
+[INFO ] 2024-02-26 21:02:48 [main] Base - Opening the url for Amazon
+[INFO ] 2024-02-26 21:02:48 [main] Base - Actual Title - Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2024-02-26 21:02:48 [main] Base - Expected Title - Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2024-02-26 21:02:48 [main] Base - ReadConfig instantiated
+[INFO ] 2024-02-26 21:02:48 [main] Base - getDriver is called
+[INFO ] 2024-02-26 21:02:48 [main] Base - Actual size of dropdown - 46
+[INFO ] 2024-02-26 21:02:48 [main] Base - Expected size of dropdown - 46
+[INFO ] 2024-02-26 21:02:53 [main] Base - Quiting the browser
+[INFO ] 2024-02-26 21:04:37 [main] Base - ReadConfig instantiated
+[INFO ] 2024-02-26 21:04:37 [main] Base - Setup executed
+[INFO ] 2024-02-26 21:04:41 [main] Base - Opening the url for Amazon
+[INFO ] 2024-02-26 21:04:41 [main] Base - Actual Title - Amazon.in
+[INFO ] 2024-02-26 21:04:41 [main] Base - Expected Title - Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2024-02-26 21:04:41 [main] Base - getDriver is called
+[INFO ] 2024-02-26 21:04:41 [main] Base - Quiting the browser
+[INFO ] 2024-02-26 23:03:53 [main] Base - ReadConfig instantiated
+[INFO ] 2024-02-26 23:03:53 [main] Base - Setup executed
+[INFO ] 2024-02-26 23:04:00 [main] Base - Opening the url for Amazon
+[INFO ] 2024-02-26 23:04:00 [main] Base - Actual Title - Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2024-02-26 23:04:00 [main] Base - Expected Title - Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2024-02-26 23:04:00 [main] Base - ReadConfig instantiated
+[INFO ] 2024-02-26 23:04:00 [main] Base - getDriver is called
+[INFO ] 2024-02-26 23:04:00 [main] Base - Actual size of dropdown - 46
+[INFO ] 2024-02-26 23:04:00 [main] Base - Expected size of dropdown - 46
+[INFO ] 2024-02-26 23:04:04 [main] Base - Quiting the browser
+[INFO ] 2024-02-26 23:06:48 [main] Base - ReadConfig instantiated
+[INFO ] 2024-02-26 23:06:48 [main] Base - Setup executed
+[INFO ] 2024-02-26 23:06:52 [main] Base - Opening the url for Amazon
+[INFO ] 2024-02-26 23:06:52 [main] Base - Actual Title - Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2024-02-26 23:06:52 [main] Base - Expected Title - Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2024-02-26 23:06:52 [main] Base - ReadConfig instantiated
+[INFO ] 2024-02-26 23:06:52 [main] Base - getDriver is called
+[INFO ] 2024-02-26 23:06:52 [main] Base - Actual size of dropdown - 46
+[INFO ] 2024-02-26 23:06:52 [main] Base - Expected size of dropdown - 46
+[INFO ] 2024-02-26 23:06:57 [main] Base - Quiting the browser
+[INFO ] 2024-02-26 23:31:38 [main] Base - ReadConfig instantiated
+[INFO ] 2024-02-26 23:31:38 [main] Base - Setup executed
+[INFO ] 2024-02-26 23:31:44 [main] Base - Opening the url for Amazon
+[INFO ] 2024-02-26 23:31:44 [main] Base - Actual Title - Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2024-02-26 23:31:44 [main] Base - Expected Title - Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2024-02-26 23:31:44 [main] Base - ReadConfig instantiated
+[INFO ] 2024-02-26 23:31:44 [main] Base - getDriver is called
+[INFO ] 2024-02-26 23:31:44 [main] Base - Actual size of dropdown - 46
+[INFO ] 2024-02-26 23:31:44 [main] Base - Expected size of dropdown - 46
+[INFO ] 2024-02-26 23:31:50 [main] Base - Quiting the browser
+[INFO ] 2024-02-26 23:32:00 [main] Base - ReadConfig instantiated
+[INFO ] 2024-02-26 23:32:00 [main] Base - Setup executed
+[INFO ] 2024-02-26 23:32:04 [main] Base - Opening the url for Amazon
+[INFO ] 2024-02-26 23:32:04 [main] Base - Actual Title - Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2024-02-26 23:32:04 [main] Base - Expected Title - Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2024-02-26 23:32:04 [main] Base - ReadConfig instantiated
+[INFO ] 2024-02-26 23:32:04 [main] Base - getDriver is called
+[INFO ] 2024-02-26 23:32:04 [main] Base - Actual size of dropdown - 46
+[INFO ] 2024-02-26 23:32:04 [main] Base - Expected size of dropdown - 46
+[INFO ] 2024-02-26 23:32:11 [main] Base - Quiting the browser
+[INFO ] 2024-02-26 23:50:31 [main] Base - ReadConfig instantiated
+[INFO ] 2024-02-26 23:50:31 [main] Base - Setup executed
+[INFO ] 2024-02-26 23:50:35 [main] Base - Opening the url for Amazon
+[INFO ] 2024-02-26 23:50:35 [main] Base - Actual Title - Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2024-02-26 23:50:35 [main] Base - Expected Title - Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2024-02-26 23:50:35 [main] Base - ReadConfig instantiated
+[INFO ] 2024-02-26 23:50:35 [main] Base - getDriver is called
+[INFO ] 2024-02-26 23:50:35 [main] Base - Actual size of dropdown - 46
+[INFO ] 2024-02-26 23:50:35 [main] Base - Expected size of dropdown - 46
+[INFO ] 2024-02-26 23:50:39 [main] Base - Quiting the browser

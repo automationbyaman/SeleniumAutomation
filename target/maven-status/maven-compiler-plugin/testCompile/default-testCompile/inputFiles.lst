@@ -1,0 +1,9 @@
+C:\WebUI_Automation\SeleniumAutomation\src\test\java\base\Base.java
+C:\WebUI_Automation\SeleniumAutomation\src\test\java\pageObject\AmazonHomePage.java
+C:\WebUI_Automation\SeleniumAutomation\src\test\java\pageObject\FlipkartHomePage.java
+C:\WebUI_Automation\SeleniumAutomation\src\test\java\runner\Runner.java
+C:\WebUI_Automation\SeleniumAutomation\src\test\java\stepDefinitions\AmazonHomePageStepDef.java
+C:\WebUI_Automation\SeleniumAutomation\src\test\java\stepDefinitions\BaseStepDef.java
+C:\WebUI_Automation\SeleniumAutomation\src\test\java\stepDefinitions\FlipkartHomePageStepDef.java
+C:\WebUI_Automation\SeleniumAutomation\src\test\java\stepDefinitions\Hooks.java
+C:\WebUI_Automation\SeleniumAutomation\src\test\java\utils\ReadConfig.java
